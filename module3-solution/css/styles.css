@@ -1,0 +1,56 @@
+#header-nav {
+  background-color: lightgrey;
+  border-radius: 0;
+  border-width: 2px;
+  border-style: bold;
+  border-color: black;
+}
+
+.navbar-header a{
+	height: 100px;
+}
+
+.navbar-button{
+   margin-top: 25px;
+   margin-bottom: 25px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+#nav-list{
+	margin-bottom: -3px;
+}
+
+#nav-list li{
+ text-align: center;
+ border-color: black;
+ border-width : 1px 0px 1px 0px;
+ border-style: solid;
+}
+
+#nav-list a {
+  background-color: yellow;
+}
+
+#nav-list a:hover {
+  background: grey;
+}
+
+#collapsable-nav{
+	border-style: none;
+}
+
+.main-content-row{
+	background-color: lightgrey;
+	padding: 15px;
+	width: 100%;
+}
+
+.row{
+	width: 100%;
+}
+
+
+
